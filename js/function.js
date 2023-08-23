@@ -1,6 +1,6 @@
 function checkIfGameWon(first, second, third) {
   // console.log('checkIfGameWon')
-  if (display.textContent.includes("won the game")) {
+  if (display.textContent.includes(" won the game 😜")) {
     return;
   }
   if (
